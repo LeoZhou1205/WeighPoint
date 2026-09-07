@@ -1,0 +1,4 @@
+// Copy this file to Local.xcconfig, then fill in your own values.
+// Local.xcconfig is ignored by Git. Never put real values in this example.
+GEMINI_API_KEY =
+DEVELOPMENT_TEAM =

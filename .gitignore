@@ -1,0 +1,56 @@
+# Local credentials and developer configuration
+Config/Local.xcconfig
+*.local.xcconfig
+.env
+.env.*
+!.env.example
+!.env.sample
+Secrets.plist
+GoogleService-Info.plist
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+
+# Xcode user settings and generated output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.build/
+*.xcarchive
+*.xcresult
+*.ipa
+*.app/
+*.dSYM/
+*.dSYM.zip
+*.hmap
+
+# Dependency output (keep Package.resolved for reproducible builds)
+Pods/
+Carthage/Build/
+
+# Local app data and exports
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.db
+*.db-*
+*.store
+*.store-*
+*.log
+
+# macOS, editor, and local agent state
+.DS_Store
+._*
+.idea/
+.vscode/
+.codex/
+.agents/
+*.swp
+*~
+__pycache__/

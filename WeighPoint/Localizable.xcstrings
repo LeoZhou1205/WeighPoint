@@ -1,0 +1,1440 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "'" : {
+      "shouldTranslate" : false
+    },
+    "\"" : {
+      "shouldTranslate" : false
+    },
+    "%@" : {
+      "shouldTranslate" : false
+    },
+    "%@ kcal" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 千卡"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "shouldTranslate" : false
+    },
+    "•" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "•"
+          }
+        }
+      }
+    },
+    "⚠️ Important Limitations" : {
+
+    },
+    "✅ Summary: Science You Can Trust" : {
+
+    },
+    "🎯 Step 3: Building Your Calorie Plan" : {
+
+    },
+    "🏃 Step 2: Estimating Your TDEE (Total Daily Energy Expenditure)" : {
+
+    },
+    "🏋️ Suggested Daily Exercise Burn" : {
+
+    },
+    "💡 Why This is Useful" : {
+
+    },
+    "📊 How It Connects the Dots" : {
+
+    },
+    "🔍 How Your Health Plan Is Generated" : {
+
+    },
+    "🔒 Privacy Matters" : {
+
+    },
+    "🤖 Understanding Your AI Insights" : {
+
+    },
+    "🧠 Step 1: Calculating Your BMR (Basal Metabolic Rate)" : {
+
+    },
+    "A typical healthy BMI is between 18.5 and 24.9, but everyone's body is different" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康的标准 BMI 通常在 18.5 到 24.9 之间，但每个人的身体都是不同的。"
+          }
+        }
+      }
+    },
+    "About This Plan" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于此计划"
+          }
+        }
+      }
+    },
+    "About This Section" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于此内容"
+          }
+        }
+      }
+    },
+    "absolutely crushing it!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "干得漂亮！"
+          }
+        }
+      }
+    },
+    "Achieved: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Achieved: %1$@ %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "达到的：%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "age" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年龄"
+          }
+        }
+      }
+    },
+    "Age" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年龄"
+          }
+        }
+      }
+    },
+    "AI features provided by Google Cloud AI" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI功能由Google Cloud AI提供"
+          }
+        }
+      }
+    },
+    "AI Insight" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "智能分析"
+          }
+        }
+      }
+    },
+    "Apple Health Integration" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连接Apple健康"
+          }
+        }
+      }
+    },
+    "Average" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平均值"
+          }
+        }
+      }
+    },
+    "Average BMI" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average BMI"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平均BMI"
+          }
+        }
+      }
+    },
+    "Average weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average weight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平均体重"
+          }
+        }
+      }
+    },
+    "Balanced" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平衡"
+          }
+        }
+      }
+    },
+    "Based on your selected strategy, we estimate your exercise-related energy burn using:\n\n• Eat Less → BMR × 0.20  \n• Balanced → BMR × 0.55  \n• Move More → BMR × 0.725  \n\nThese values are based on the same PAL system used in the TDEE calculation." : {
+
+    },
+    "Before we start, these details will help us create useful predictions." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在开始之前，这些信息将帮助我们生成有用的预测结果。"
+          }
+        }
+      }
+    },
+    "BMI: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BMI：%@"
+          }
+        }
+      }
+    },
+    "BMR is the number of calories your body needs at rest — just to keep you alive (breathing, circulating blood, etc.).\n\nWe use the Mifflin–St Jeor Equation:\n\n• For men:\n  BMR = 10 × weight (kg) + 6.25 × height (cm) – 5 × age + 5\n\n• For women:\n  BMR = 10 × weight (kg) + 6.25 × height (cm) – 5 × age – 161\n\n• If you prefer not to specify gender:\n  We skip the +5 or –161 adjustment.\n\n• If you don’t enter your age:\n  We assume a default of 30 years old." : {
+
+    },
+    "But don't pack your bags, it's 900°F there and rains sulfuric acid!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不过别急着收拾行李，那里的温度高达华氏 900 度，还会下硫酸雨！"
+          }
+        }
+      }
+    },
+    "Calculate BMI" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculate BMI"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "计算BMI"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "Connect" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连接"
+          }
+        }
+      }
+    },
+    "Connect to Apple Health so that we can use your sleep and workout records to tailor better weight management advices.\n\nYour data might be shared with a third party AI model provider" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连接 Apple 健康，以便我们根据您的睡眠和运动记录，为您量身定制更科学的体重管理建议。"
+          }
+        }
+      }
+    },
+    "Date" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日期"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认"
+          }
+        }
+      }
+    },
+    "E.g. %@ hours of jogging, or whichever sport you love" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例如%@小时的慢跑，或你喜欢的任何运动"
+          }
+        }
+      }
+    },
+    "e.g. %lld" : {
+      "shouldTranslate" : false
+    },
+    "E.g. %lld plate(s) of Caesar Salad or %lld chicken burrito(s)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E.g. %#@arg1@  of Caesar Salad or %#@arg2@"
+          },
+          "substitutions" : {
+            "arg1" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg plate"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg plates"
+                    }
+                  }
+                }
+              }
+            },
+            "arg2" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg chicken burrito"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg chicken burritos"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "比如%#@arg1@ 盘凯撒沙拉或者 %#@arg2@个鸡肉卷"
+          },
+          "substitutions" : {
+            "arg1" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg"
+                    }
+                  }
+                }
+              }
+            },
+            "arg2" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Eat Less" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "减少摄入"
+          }
+        }
+      }
+    },
+    "Edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
+          }
+        }
+      }
+    },
+    "Enable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用"
+          }
+        }
+      }
+    },
+    "Enable AI" : {
+
+    },
+    "Enable AI to get smarter and more personal advices" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用AI以获得更加个性化的建议"
+          }
+        }
+      }
+    },
+    "Exercise: " : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "锻炼："
+          }
+        }
+      }
+    },
+    "Feet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feet"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "英尺"
+          }
+        }
+      }
+    },
+    "Female" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "女性"
+          }
+        }
+      }
+    },
+    "Gender" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性别"
+          }
+        }
+      }
+    },
+    "Goal %@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goal %@%@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目标%1$@%2$@"
+          }
+        }
+      }
+    },
+    "Goal Line" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goal Line"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示目标"
+          }
+        }
+      }
+    },
+    "Goal: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Goal: %1$@ %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目标：%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Goal: %@ kg by %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Goal: %1$@ kg by %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目标：在 %2$@ 前达到 %1$@ 公斤"
+          }
+        }
+      }
+    },
+    "Goals" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目标"
+          }
+        }
+      }
+    },
+    "HealthKit Related" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HealthKit相关"
+          }
+        }
+      }
+    },
+    "Height" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Height"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身高"
+          }
+        }
+      }
+    },
+    "History" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "历史"
+          }
+        }
+      }
+    },
+    "How AI Works" : {
+      "shouldTranslate" : false
+    },
+    "How It Works" : {
+      "shouldTranslate" : false
+    },
+    "Inches" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inches"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "英寸"
+          }
+        }
+      }
+    },
+    "Input not valid" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input not valid"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入有误：（"
+          }
+        }
+      }
+    },
+    "Intake: " : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "摄入："
+          }
+        }
+      }
+    },
+    "It evaluates your workout intensity. High-strain days often cause micro-tears in muscle fiber. The body heals this by retaining fluid locally, which can cause the scale to go *up* despite fat loss." : {
+
+    },
+    "Jupiter" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "木星"
+          }
+        }
+      }
+    },
+    "keep it up!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "继续保持！"
+          }
+        }
+      }
+    },
+    "Keep Tracking Your Health" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "继续追踪你的健康"
+          }
+        }
+      }
+    },
+    "Learn more about how this plan is generated" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解您的计划是如何生成的"
+          }
+        }
+      }
+    },
+    "Learn more about how this section is generated" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解生成原理"
+          }
+        }
+      }
+    },
+    "Learn more about how we create your plan" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解我们如何制定您的计划"
+          }
+        }
+      }
+    },
+    "Let’s define your goal and help you with daily food and activity tips." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "让我们一起设定你的目标，并为你提供每日饮食和运动建议。"
+          }
+        }
+      }
+    },
+    "Let’s make your goal healthier. Your current plan results in too few daily calories to safely support your body. Try a more gradual timeline for better, lasting results." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "让我们一起制定一个更健康的目标。你当前的计划导致每日摄入热量过低，可能无法安全地支持身体运作。建议尝试更循序渐进的时间表，以获得更持久的成果。"
+          }
+        }
+      }
+    },
+    "Light enough to win every high jump competition… and maybe float away if you're not careful" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轻到可以拿下所有跳高比赛的冠军……不过要小心，可能一不小心就飘走了！"
+          }
+        }
+      }
+    },
+    "Log" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "记录"
+          }
+        }
+      }
+    },
+    "Male" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "男性"
+          }
+        }
+      }
+    },
+    "Manage" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理"
+          }
+        }
+      }
+    },
+    "Manage my data" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理我的数据"
+          }
+        }
+      }
+    },
+    "Mars" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "火星"
+          }
+        }
+      }
+    },
+    "Max" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最高值"
+          }
+        }
+      }
+    },
+    "Max: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最高：%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Metric" : {
+      "shouldTranslate" : false
+    },
+    "Min" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最低值"
+          }
+        }
+      }
+    },
+    "Min: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最低：%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Move More" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "增加运动"
+          }
+        }
+      }
+    },
+    "My Data" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的数据"
+          }
+        }
+      }
+    },
+    "My Goal" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Goal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的目标"
+          }
+        }
+      }
+    },
+    "Normal weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal weight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正常"
+          }
+        }
+      }
+    },
+    "Obese" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obese"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "肥胖"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好的"
+          }
+        }
+      }
+    },
+    "Overweight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overweight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "超重"
+          }
+        }
+      }
+    },
+    "Personal" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "个人"
+          }
+        }
+      }
+    },
+    "Pick Date" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick Date"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择日期"
+          }
+        }
+      }
+    },
+    "Preferred Strategy" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "首选方式"
+          }
+        }
+      }
+    },
+    "Progress So Far" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前进展"
+          }
+        }
+      }
+    },
+    "Rather not say" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不便透露"
+          }
+        }
+      }
+    },
+    "Rather than obsessing over today's specific number, the engine compares it to your recent history to identify spikes, drops, or plateaus." : {
+
+    },
+    "Reach by" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reach by"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "达成日期"
+          }
+        }
+      }
+    },
+    "Records" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "记录"
+          }
+        }
+      }
+    },
+    "Review Our Privacy Policy" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看隐私政策"
+          }
+        }
+      }
+    },
+    "Select date" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select date"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择日期"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跳过"
+          }
+        }
+      }
+    },
+    "Sleep & Recovery" : {
+
+    },
+    "So heavy you'd need a crane just to get out of bed! Good thing it's mostly gas." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重得连下床都得靠吊车！还好它主要是气体组成。"
+          }
+        }
+      }
+    },
+    "Source: FAO/WHO/UNU Human Energy Requirements (2004)" : {
+
+    },
+    "Source: Mifflin MD et al., *Am J Clin Nutr* (1990)" : {
+
+    },
+    "Source: Wishnofsky M., *Am J Clin Nutr* (1958)" : {
+
+    },
+    "Strain & Inflammation" : {
+
+    },
+    "Target" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Target"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目标"
+          }
+        }
+      }
+    },
+    "Target Weight" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目标体重"
+          }
+        }
+      }
+    },
+    "Test" : {
+
+    },
+    "The engine analyzes the relationship between three key metrics to give you a clearer picture of your progress:" : {
+
+    },
+    "The engine checks if your sleep duration is optimal for recovery or if it suggests a 'stress state.' Short sleep windows often spike stress hormones, leading to temporary water retention." : {
+
+    },
+    "The goal is to prevent panic. If your weight spikes +2lbs overnight, the AI can check your logs and help identify if it's likely just muscle fluid retention (inflammation) from yesterday's workout, rather than fat gain." : {
+
+    },
+    "This is an evidence-based estimate, not a medical plan. For personalized advice, consult a healthcare professional." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这是基于数据的估算结果，并非医疗方案。如需个性化建议，请咨询医疗专业人士。"
+          }
+        }
+      }
+    },
+    "This is based on rough estimates. For a more accurate result, consider providing your age and gender. Your data will be securely stored on your device or in iCloud." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前结果为粗略估算。填写年龄和性别可以让结果更准确。你的数据只会保存在设备或 iCloud 中，确保隐私安全。"
+          }
+        }
+      }
+    },
+    "This section is AI generated, and can sometimes produce inaccurate information" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内容由 AI 生成，可能存在偏差，仅供参考"
+          }
+        }
+      }
+    },
+    "To help you reach your goal weight by your chosen date, we calculate how many calories you need to gain or lose.\n\nWe use a well-established estimate:  \n1 kg of body fat ≈ 7,700 calories\n\nWe then divide this by the number of days to your goal to find your daily adjustment." : {
+
+    },
+    "Today's Target" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日目标"
+          }
+        }
+      }
+    },
+    "Underweight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Underweight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "偏瘦"
+          }
+        }
+      }
+    },
+    "Unknown BMI Range" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法识别的BMI范围"
+          }
+        }
+      }
+    },
+    "Unsupported Insight" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前不支持此项洞察"
+          }
+        }
+      }
+    },
+    "Venus" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "金星"
+          }
+        }
+      }
+    },
+    "We believe in full transparency. Here’s exactly how your daily calorie targets and activity levels are computed — based on gold-standard health science used by registered dietitians and medical professionals worldwide." : {
+
+    },
+    "We multiply your BMR by a physical activity level (PAL) based on your chosen strategy:\n\n• Eat Less → Sedentary (×1.20)  \n• Balanced → Moderately Active (×1.55)  \n• Move More → Very Active (×1.725)  \n\nThis gives us your Total Daily Energy Expenditure (TDEE)." : {
+
+    },
+    "We need a bit more data before we can offer insights. Keep logging your records to unlock personalized trends!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们还需要更多数据，才能为你提供洞察分析。继续记录，解锁专属趋势！"
+          }
+        }
+      }
+    },
+    "WeighPoint" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WeighPoint"
+          }
+        }
+      }
+    },
+    "WeighPoint uses an intelligent analysis engine to help you understand the *context* behind your weight. It looks for patterns between your recovery, activity, and scale weight to differentiate between fat loss, water retention, and muscle repair." : {
+
+    },
+    "Weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "体重"
+          }
+        }
+      }
+    },
+    "Weight Trend" : {
+
+    },
+    "What to prioritize today" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日重点"
+          }
+        }
+      }
+    },
+    "While our system uses advanced logic to interpret your data, it is an estimation tool, not a medical diagnosis.\n\n• **We don't know everything:** We can't see what you ate (sodium intake), your hydration levels, or external life stress.\n• **Every body is different:** Some people recover faster than others. The AI uses general physiological baselines that apply to most, but perhaps not all.\n• **Data Quality:** The insight is only as good as the data entered. Missing sleep or workout logs may lead to generic advice." : {
+
+    },
+    "You can edit your goal to fine-tune your daily food and activity tips." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你可以编辑目标，以微调每日的饮食与运动建议"
+          }
+        }
+      }
+    },
+    "You reached %lld%% of your goal - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You reached %1$lld%% of your goal - %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你已达成目标的 %1$lld%% —— %2$@"
+          }
+        }
+      }
+    },
+    "Your health plan is built using reliable, evidence-based formulas — not guesswork. We use your personal data and combine it with medically accepted calculations to deliver a safe and effective path to your goals.\n\n🔐 **Your privacy matters.**  \nAll calculations are done directly on your device. **We do not collect, store, or see any of your personal health data.** Everything stays local and private to you.\n\nEverything is backed by peer-reviewed research and health organization standards.\n\nWant to go deeper? You can explore the linked sources above or talk to a healthcare professional for tailored advice." : {
+
+    },
+    "Your height" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your height"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的身高"
+          }
+        }
+      }
+    },
+    "Your insights are generated securely. To perform the analysis, the model provider receives only the necessary health data. Your personal identity—such as your name or email—is never shared. The analysis is performed to give you a specific daily insight and nothing else." : {
+
+    },
+    "Your Latest BMI" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近的BMI"
+          }
+        }
+      }
+    },
+    "Your weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your weight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的体重"
+          }
+        }
+      }
+    },
+    "Your Weight on %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@上的体重"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

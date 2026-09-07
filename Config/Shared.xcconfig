@@ -1,0 +1,5 @@
+// Safe defaults for a fresh checkout. Local values are never committed.
+GEMINI_API_KEY =
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

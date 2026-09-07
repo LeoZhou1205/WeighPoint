@@ -1,0 +1,39 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Set weight goals and stay motivated." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设定体重目标，保持动力"
+          }
+        }
+      }
+    },
+    "Track your BMI and weight, all in one place." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在一个界面中记录BMI和体重"
+          }
+        }
+      }
+    },
+    "Visualize your journey over time." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可视化你的健康变化之旅"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
